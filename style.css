@@ -1,0 +1,22 @@
+:root {
+    --accent: #fe662a;
+    --primary: #2b3138;
+    --secondary:#202329;
+    --text-primary:#fff;
+    --text-secondary:#ccc;
+    --text-bg:#529325;
+    --dark:#222832;
+}
+body{
+    margin: 0;
+    font-family: 'poppins'- sans-serif;
+    padding: 0;
+    background-color: var(--secondary);
+}
+
+*{
+    box-sizing: border-box;
+}
+
+
+
